@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    text-align: center;
+
+
+
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 400px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    color: #8A39E1;
+
+
+
+}
+
+p {
+    font-family: 'Sora', sans-serif;
+color: #252525;
+}
+
+h2 {
+    font-family: 'Khand', sans-serif;
+    font-weight:normal;
+    color:#8A39E1;
+    font-size: 3rem;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'Jaldi', sans-serif;
+    color: #8A39E1;
+}
+.profile{
+    margin-top: 100px;
+}
+.note{
+    width: 50%;
+    margin: 20px auto 10px auto;
+}
+.skill-row{
+    width: 50%;
+    margin:20px auto 40px auto;
+    text-align: left;
+    
+}
+.code-img{
+    width: 40%;
+    float: left;
+    margin-right: 20px;
+}
+.card-img{
+width: 35%;
+float: right;
+margin-left: 20px;
+
+}
+p{
+    line-height:2
+}
+
+
+
+hr{border-color: grey;
+border-style:none;
+border-top-style: dotted;
+border-width: 5px;
+width: 10%;
+margin:100px auto 100px auto;
+}
+
+.enjoy-row{
+width: 50%;
+margin:40px auto 30px auto;
+text-align: right;
+}
+.song-img{
+    width:30%;
+  float: right;
+  margin-left: 40px;
+}
+.game-img{
+    width:35%;
+  float: left;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+.gn{ 
+ margin-right: 300px;
+}
+.bottom-container{
+    padding: 100px;
+    background-color: #66BFBF;
+    margin-top: 40px;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color:black;
+}
+a:hover{
+    color:white ;
+}
+.copyright{
+    font-size: 0.75rem;
+    color: black;
+}
+
+
+.btn {
+    background: #039eff;
+    background-image: -webkit-linear-gradient(top, #039eff, #0020c2);
+    background-image: -moz-linear-gradient(top, #039eff, #0020c2);
+    background-image: -ms-linear-gradient(top, #039eff, #0020c2);
+    background-image: -o-linear-gradient(top, #039eff, #0020c2);
+    background-image: linear-gradient(to bottom, #039eff, #0020c2);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #15ff00;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+  }
+  
+  .btn:hover {
+    background: #ff0066;
+    background-image: -webkit-linear-gradient(top, #ff0066, #ff3c00);
+    background-image: -moz-linear-gradient(top, #ff0066, #ff3c00);
+    background-image: -ms-linear-gradient(top, #ff0066, #ff3c00);
+    background-image: -o-linear-gradient(top, #ff0066, #ff3c00);
+    background-image: linear-gradient(to bottom, #ff0066, #ff3c00);
+    text-decoration: none;
+  }
